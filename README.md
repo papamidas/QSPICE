@@ -25,3 +25,24 @@ Go back to the simulator and press the green ON switch symbol
 This starts the simulation
 
 After some seconds (depending on the speed of your PC), a diagram window pops up and shows the simulation results
+
+## biquad_test.qsch
+
+An example simulation file demonstrating the C-Block biquad.cpp.
+
+The [BiQuadDesigner](https://arachnoid.com/BiQuadDesigner/index.html) written by P. Lutus was used for calculating the coefficients.
+
+## biquad.cpp
+
+simple biquad filter implementation
+
+## circulator_test.qsch
+
+This is an example simulation demonstrating the circulator subcircuit
+
+## circulator.qsch
+
+This isn't actually a digital circuit, but I was too lazy at the moment to add another QSpice repository just for this one analog model.
+
+This is primitive behavioral model of a circulator. It uses only voltage controlled voltage sources and some resistors. The circuit is described in the entry [Zirkluator](https://de.wikipedia.org/wiki/Zirkulator) of the German Wikipedia.
+
