@@ -75,6 +75,6 @@
   «text (1500,-1450) 1 7 0 0x1000000 -1 -1 "ï»¿.plot V(IN)"»
   «text (1500,-1650) 1 7 0 0x1000000 -1 -1 "ï»¿.plot V(OUT)"»
   «text (50,700) 1 7 0 0x1000000 -1 -1 "ï»¿.param Tsim = 10"»
-  «text (-2200,-1850) 1 7 0 0x1000000 -1 -1 "ï»¿credits to https://arachnoid.com/BiQuadDesigner/index.html"»
+  «text (-2200,-1850) 1 7 1 0x1000000 -1 -1 "ï»¿credits to https://arachnoid.com/BiQuadDesigner/index.html"»
 »
 
